@@ -1,2 +1,2 @@
-# nom-landing
+# noms-landing
 Noms landing page
